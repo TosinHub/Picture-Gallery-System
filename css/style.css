@@ -1,0 +1,19 @@
+.picture{
+    width: 200px !important;
+    height: 150px !important;
+} 
+
+.pager .active a {
+    background-color: blue;
+    color: white;
+
+} 
+
+.pager .active a:hover {
+     background-color: white;
+    color: blue;
+}
+.pager .inactive a:hover {
+     background-color: white;
+    color: blue;
+}
